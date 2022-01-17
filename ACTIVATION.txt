@@ -1,0 +1,4 @@
+﻿Type the following Command: slmgr /ipk (Activation Key)
+Type the following Command: slmgr /skms kms8.msguides.com
+Type the following Command: slmgr /ato
+Activation key: W269N-WFGWX-YVC9B-4J6C9-T83GX(windows 10 pro)
